@@ -1,5 +1,7 @@
 # How to Make Money in Stocks
 
+[How to Make Money in Stocks.pdf](https://github.com/eshinhw/quant-books-and-research-papers/files/13310606/How.to.Make.Money.in.Stocks.pdf)
+
 ## Chapter 1
 
 As a general guide for new or experienced investors, I would suggest you not buy any stock that doesn't show earnings per share up at least 18% or 20% in the most recent quarter versus the same quarter the year before. Many successful money-makers use 25% or 30% as their minimum earnings parameter. And make sure you calculate the percentage change; don't guess or assume. You will be even safer if you insist the last two quarters each show a significant percentage increase in earnings from year-ago quarters.
