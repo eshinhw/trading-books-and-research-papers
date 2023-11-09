@@ -1,5 +1,8 @@
 # The Complete Turtle Trader
 
+[The Complete Turtle Trader - The Legend, the Lessons, the Results 2007.pdf](https://github.com/eshinhw/quant-books-and-research-papers/files/13310617/The.Complete.Turtle.Trader.-.The.Legend.the.Lessons.the.Results.2007.pdf)
+
+
 ## Chapter 1: Nurture vs. Nature
 
 Dennis believed that his ability to trade was not a natural gift. He looked at the markets as being like Monopoly. He saw strategies, rules, odds, and numbers as objective and learnable. 
