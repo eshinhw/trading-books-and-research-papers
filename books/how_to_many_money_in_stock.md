@@ -7,3 +7,8 @@ As a general guide for new or experienced investors, I would suggest you not buy
 - Invest in stocks which have accelerating quarterly earnings growth.
 - Two quarters of major earnings deceleration may mean trouble.
 - Compare a stock's percentage increase in earnings for the quarter ended December, to the December quarter a year earlier. Never compare the December quarter to the immediately prior September quarter.
+
+## Chapter 2
+
+- Select stocks with 25% to 50% annual growth rates.
+- The stability of a company's five-year earnings record is also important.
