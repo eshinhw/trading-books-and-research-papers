@@ -1,4 +1,4 @@
-# Quant Books and Research Papers
+# Trading Books and Research Papers
 
 ## Book Reviews
 
