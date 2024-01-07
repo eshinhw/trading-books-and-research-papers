@@ -19,4 +19,6 @@ As a general guide for new or experienced investors, I would suggest you not buy
 
 In the stock market, you absolutely can't win either unless you have a strong predetermined defense to protect yourself against large losses. This may surprise you, but if you invest in stocks, you are going to make a never ending number of mistakes in your selection and timing of purchases. These poor decisions will lead to losses, some of which can become quite awful. No matter how smart you may think you are or how good you believe your information or analysis is, you simply are not going to be right all of the time. In fact, you will probably be right only half the time!
 
+The whole secret to winning in the stock market is to lose the least amount possible when you're not right.  
+
 
