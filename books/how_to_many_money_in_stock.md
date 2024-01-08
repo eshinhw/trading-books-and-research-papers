@@ -21,4 +21,8 @@ In the stock market, you absolutely can't win either unless you have a strong pr
 
 The whole secret to winning in the stock market is to lose the least amount possible when you're not right.  
 
+## Chapter 11: Should You Diversify, Invest for the Long Pull, Buy on Margin, Sell Short?
+
+
+
 
